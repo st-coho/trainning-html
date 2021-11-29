@@ -1,14 +1,14 @@
 header {
-    background-image: url('./imgaes/product-header.png');
-    background-repeat: no-repeat;
+  background-image: url('./imgaes/product-header.png');
+  background-repeat: no-repeat;
 }
 
 nav {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 header .container>nav:last-child {
-    display: none;
+  display: none;
 }
